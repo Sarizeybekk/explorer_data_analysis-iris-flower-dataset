@@ -36,28 +36,22 @@ Bu çalışmada temel istatistiksel analizler ve görselleştirme yöntemleri il
    ```bash
    git clone https://github.com/Sarizeybekk/explorer_data_analysis-iris-flower-dataset.git
 
-Kodu kopyala
-git clone https://github.com/Sarizeybekk/explorer_data_analysis-iris-flower-dataset.git
-Gerekli kütüphaneleri yükleyin:
-bash
-Kodu kopyala
-pip install pandas numpy matplotlib seaborn
-Jupyter Notebook'ta EDA_Iris_Flower_Dataset.ipynb dosyasını açarak çalıştırabilirsiniz.
-📚 Iris Veri Seti Hakkında
-🌸 Sepal Length: Çanak yaprağı uzunluğu (cm)
-🌸 Sepal Width: Çanak yaprağı genişliği (cm)
-🌸 Petal Length: Taç yaprağı uzunluğu (cm)
-🌸 Petal Width: Taç yaprağı genişliği (cm)
-💡 Veri seti, Setosa, Versicolor ve Virginica olmak üzere 3 farklı çiçek türünden toplam 150 örnek içerir.
 
-🔧 Kullanılan Kütüphaneler
-🐼 pandas
-🔢 numpy
-📊 matplotlib
-🌈 seaborn
-📬 İletişim
-📧 Eğer proje hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen benimle iletişime geçin: Sarizeybekk.
+## 📚 Iris Veri Seti Hakkında
+###🌸 Sepal Length: Çanak yaprağı uzunluğu (cm)
+###🌸 Sepal Width: Çanak yaprağı genişliği (cm)
+###🌸 Petal Length: Taç yaprağı uzunluğu (cm)
+###🌸 Petal Width: Taç yaprağı genişliği (cm)
+###💡 Veri seti, Setosa, Versicolor ve Virginica olmak üzere 3 farklı çiçek türünden toplam 150 örnek içerir.
 
-🌐 Kaggle Projesi
-Bu proje, Kaggle platformunda da yürütülmüştür. Aşağıdaki bağlantıdan inceleyebilirsiniz:
+##🔧 Kullanılan Kütüphaneler
+###🐼 pandas
+###🔢 numpy
+###📊 matplotlib
+###🌈 seaborn
+##📬 İletişim
+###📧 Eğer proje hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen benimle iletişime geçin: Sarizeybekk.
+
+##🌐 Kaggle Projesi
+###Bu proje, Kaggle platformunda da yürütülmüştür. Aşağıdaki bağlantıdan inceleyebilirsiniz:
 🔗 Kaggle Proje Linki
