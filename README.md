@@ -38,7 +38,7 @@ Bu çalışmada temel istatistiksel analizler ve görselleştirme yöntemleri il
 
 
 ## 📚 Iris Veri Seti Hakkında
-###🌸 Sepal Length: Çanak yaprağı uzunluğu (cm)
+🌸 Sepal Length: Çanak yaprağı uzunluğu (cm)
 ###🌸 Sepal Width: Çanak yaprağı genişliği (cm)
 ###🌸 Petal Length: Taç yaprağı uzunluğu (cm)
 ###🌸 Petal Width: Taç yaprağı genişliği (cm)
