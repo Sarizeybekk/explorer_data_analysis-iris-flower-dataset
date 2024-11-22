@@ -39,19 +39,19 @@ Bu çalışmada temel istatistiksel analizler ve görselleştirme yöntemleri il
 
 ## 📚 Iris Veri Seti Hakkında
 🌸 Sepal Length: Çanak yaprağı uzunluğu (cm)
-###🌸 Sepal Width: Çanak yaprağı genişliği (cm)
-###🌸 Petal Length: Taç yaprağı uzunluğu (cm)
-###🌸 Petal Width: Taç yaprağı genişliği (cm)
-###💡 Veri seti, Setosa, Versicolor ve Virginica olmak üzere 3 farklı çiçek türünden toplam 150 örnek içerir.
+🌸 Sepal Width: Çanak yaprağı genişliği (cm)
+🌸 Petal Length: Taç yaprağı uzunluğu (cm)
+🌸 Petal Width: Taç yaprağı genişliği (cm)
+💡 Veri seti, Setosa, Versicolor ve Virginica olmak üzere 3 farklı çiçek türünden toplam 150 örnek içerir.
 
 ##🔧 Kullanılan Kütüphaneler
-###🐼 pandas
-###🔢 numpy
-###📊 matplotlib
-###🌈 seaborn
-##📬 İletişim
-###📧 Eğer proje hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen benimle iletişime geçin: Sarizeybekk.
+🐼 pandas
+🔢 numpy
+📊 matplotlib
+🌈 seaborn
+📬 İletişim
+📧 Eğer proje hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen benimle iletişime geçin: Sarizeybekk.
 
 ##🌐 Kaggle Projesi
-###Bu proje, Kaggle platformunda da yürütülmüştür. Aşağıdaki bağlantıdan inceleyebilirsiniz:
+Bu proje, Kaggle platformunda da yürütülmüştür. Aşağıdaki bağlantıdan inceleyebilirsiniz:
 🔗 Kaggle Proje Linki
