@@ -49,8 +49,7 @@ Bu çalışmada temel istatistiksel analizler ve görselleştirme yöntemleri il
 🔢 numpy
 📊 matplotlib
 🌈 seaborn
-📬 İletişim
-📧 Eğer proje hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen benimle iletişime geçin: Sarizeybekk.
+
 
 ##🌐 Kaggle Projesi
 Bu proje, Kaggle platformunda da yürütülmüştür. Aşağıdaki bağlantıdan inceleyebilirsiniz:
